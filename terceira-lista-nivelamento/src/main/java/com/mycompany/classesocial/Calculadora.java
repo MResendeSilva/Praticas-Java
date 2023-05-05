@@ -7,7 +7,6 @@ package com.mycompany.classesocial;
 public class Calculadora {
 
     Double calcularNumeroSalarioMinimo(Double rendaInserida) {
-        identificarClasseSocial(rendaInserida / 1045.00);
         return rendaInserida / 1045.00;
     }
 
