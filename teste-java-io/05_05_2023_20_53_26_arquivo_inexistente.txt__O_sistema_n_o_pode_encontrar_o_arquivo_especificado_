@@ -1,0 +1,9 @@
+java.io.FileNotFoundException: arquivo_inexistente.txt (O sistema não pode encontrar o arquivo especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at org.example.TesteEscrita1.main(TesteEscrita1.java:12)
+
+
